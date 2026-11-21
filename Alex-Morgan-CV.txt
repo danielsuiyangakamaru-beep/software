@@ -1,0 +1,33 @@
+ALEX MORGAN
+Software Developer & Graphic Designer
+0795775804 | danielsuiynagakamaru@gmail.com | Portfolio website
+
+PROFILE
+Multidisciplinary developer and designer creating thoughtful digital products,
+responsive websites, and distinctive visual identities. Experienced in taking
+ideas from early exploration through design, implementation, and launch.
+
+EXPERIENCE
+Independent Developer & Designer | 2019–Present
+Partner with founders and creative teams on websites, digital products, and
+brand systems. Lead projects across discovery, visual design, frontend
+development, and delivery.
+
+SELECTED PROJECTS
+Form & Field — Web design and development for a considered home-goods shop.
+Orbit Finance — Brand and product design for a more approachable finance app.
+Sunday Supply — Visual identity and packaging for a garden and seed company.
+
+SKILLS
+Development: HTML, CSS, JavaScript, TypeScript, React, responsive web,
+accessibility, and performance.
+Design: Brand identity, art direction, editorial, print, UI/UX, Figma,
+and Adobe Creative Suite.
+
+SERVICES
+Websites and digital products | Brand identity and art direction |
+Creative development partnership
+
+NOTE
+This is sample portfolio content. Replace the name, experience, projects,
+and links with your own information before publishing.
